@@ -131,4 +131,4 @@ sns.heatmap(corr,annot=True)
 
 
 # RESULT:
-Hence,the program is executed succesfully .
+Hence,exploratory data analysis on the given data set has been executed successfully.
