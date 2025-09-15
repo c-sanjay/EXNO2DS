@@ -1,4 +1,6 @@
 # EXNO2DS
+# Name : SANJAY C
+# REG NO : 212223240150
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
